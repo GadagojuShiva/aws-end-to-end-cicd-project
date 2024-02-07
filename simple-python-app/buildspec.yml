@@ -27,4 +27,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: GadagojuShiva/aws-end-to-end-cicd-project/simple-python-app/
+  base-directory: aws-end-to-end-cicd-project/simple-python-app/
