@@ -2,7 +2,7 @@
 
 ## Description
 
-I took the lead in orchestrating a comprehensive end-to-end CI/CD (Continuous Integration/Continuous Deployment) pipeline using a suite of powerful AWS tools, including **CodeCommit**, **CodePipeline**, **CodeBuild**, and **CodeDeploy**. This strategically designed pipeline was specifically crafted to streamline and optimize the entire development lifecycle of a Python application.
+I took the lead in orchestrating a comprehensive end-to-end CI/CD (Continuous Integration/Continuous Deployment) pipeline using a suite of powerful AWS tools, including **CodeCommit**, **CodePipeline**, **CodeBuild**, and **CodeDeploy**. This strategically designed pipeline was specifically crafted to streamline and optimize the entire development lifecycle of a Python application
 
 ### Key Achievements
 
